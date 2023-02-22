@@ -1,0 +1,11 @@
+--2023-02-18 20:19:22--  https://desktop.docker.com/linux/main/amd64/docker-desktop-4.15.0-amd64.deb
+Resolving desktop.docker.com (desktop.docker.com)... 18.161.111.111, 18.161.111.67, 18.161.111.9, ...
+Connecting to desktop.docker.com (desktop.docker.com)|18.161.111.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 490180928 (467M)
+Saving to: ‘docker-desktop-4.15.0-amd64.deb’
+
+docker-desktop-4.15.0-amd64.deb        0%[                                                                    ]   2.87M  --.-KB/s    eta 166d   docker-desktop-4.15.0-amd64.deb        0%[                                                                    ]   2.87M  --.-KB/s    in 24h 41m 
+
+2023-02-19 21:01:22 (33.9 B/s) - Read error at byte 3010667/490180928 (Connection timed out). Retrying.
+
